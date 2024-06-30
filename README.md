@@ -23,7 +23,7 @@ Fitur Bot Resseler Autoscript :
 - ping
 
 Fitur Autoscript :
-https://github.com/willstore69/autoscript
+https://github.com/crakenyt69/craken
 
 Price/Harga : $50,00/700k - 1 year/tahun usage
 
