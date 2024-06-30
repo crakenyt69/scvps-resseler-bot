@@ -25,6 +25,8 @@ Fitur Bot Resseler Autoscript :
 Fitur Autoscript :
 https://github.com/crakenyt69/craken
 
-Price/Harga : $50,00/700k - 1 year/tahun usage
+Price/Harga : $3.00 - 1 month
+Price/Harga : $5.50 - 2 month
+Price/Harga : $8.00 - 3 month
 
 Berminat Hubungi: https://t.me/crakenyt
