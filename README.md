@@ -1,6 +1,6 @@
 # scvps-resseler-bot
 
-![20230318_185448](https://user-images.githubusercontent.com/107354006/226101144-ab6ea17f-024a-4954-a991-09a26eddffee.jpg)
+![20230318_185448](https://github.com/crakenyt69/img/blob/main/bot.jpg)
 
 Open Resseler Autoscript
 Via BOT Telegram
